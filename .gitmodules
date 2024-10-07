@@ -1,0 +1,6 @@
+[submodule "backend/search_service"]
+	path = backend/search_service
+	url = https://github.com/lianghuanjia/moviedb_search_service.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/lianghuanjia/movie-db-frontend.git
